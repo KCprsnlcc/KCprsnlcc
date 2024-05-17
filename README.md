@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Khadaffe Sulaiman, a budding programmer exploring the world of programming with a focus on Laravel and Python. Here's a bit about me:
+Welcome to my GitHub profile! I'm Khadaffe Sulaiman, a budding programmer exploring the world of programming with a focus on Laravel and Python.
 
 ## About Me 👨🏻‍💻
 
