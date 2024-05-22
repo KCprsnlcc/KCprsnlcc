@@ -1,21 +1,18 @@
-
----
-
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Khadaffe Sulaiman, a budding programmer exploring the world of programming with a focus on Laravel and Python.
+Welcome to my GitHub profile! I'm Khadaffe Sulaiman, a passionate programmer diving into the realms of data analytics and machine learning with Python.
 
 ## About Me 👨🏻‍💻
 
-- **Interests**: Coding, Learning new technologies, Open-source projects
-- **Current Focus**: Enhancing my skills in Laravel, Python, and web development
-- **Goal**: To build innovative and impactful projects
+- **Interests**: Coding, Exploring data, Building models
+- **Current Focus**: Developing PilarEase, a capstone project integrating data analytics and machine learning models.
+- **Goal**: To create impactful solutions leveraging data and AI technologies.
 
 ## What I'm Working On 🚀
 
-- **Learning**: Deepening my knowledge of Laravel and Python through practical applications.
-- **Projects**: Developing small projects and contributing to open-source.
-- **Courses**: Taking online courses to continuously improve my skills.
+- **Learning**: Delving deeper into Python for data analysis, machine learning, and visualization.
+- **Projects**: Building PilarEase, incorporating text classification, text generation, and data visualization functionalities.
+- **Courses**: Enriching my knowledge through online courses focused on data science and machine learning.
 
 ## Get in Touch 📫
 
@@ -39,16 +36,16 @@ Welcome to my GitHub profile! I'm Khadaffe Sulaiman, a budding programmer explor
 
 ## Let's Connect 🤝
 
-I'm open to collaborating on projects and learning from the community. Feel free to reach out!
+I'm eager to collaborate on projects and learn from the community. Don't hesitate to reach out!
 
-Thank you for visiting my profile, and happy coding! 😊
+Thank you for stopping by my profile, and happy coding! 😊
 
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/money.png" alt="Expense Logging" style="animation: bounce 2s infinite;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" alt="Statistical Analysis" style="animation: pulse 2s infinite;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/budget.png" alt="Budget Management" style="animation: shake 2s infinite;" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/analysis.png" alt="Data Analysis" style="animation: bounce 2s infinite;" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/generative-art.png" alt="Text Generation" style="animation: pulse 2s infinite;" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/bar-chart.png" alt="Data Visualization" style="animation: shake 2s infinite;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Contributing" style="animation: tada 2s infinite;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Contact" style="animation: swing 2s infinite;" />
 </p>
