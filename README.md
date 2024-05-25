@@ -1,8 +1,4 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile! I'm Khadaffe Sulaiman, a passionate programmer diving into the realms of data analytics and machine learning with Python.
-
-## About Me 👨🏻‍💻
+# About Me 👨🏻‍💻
 
 - **Interests**: Coding, Exploring data, Building models
 - **Current Focus**: Developing PilarEase, a capstone project integrating data analytics and machine learning models.
