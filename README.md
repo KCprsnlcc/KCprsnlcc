@@ -42,8 +42,8 @@ I am a software developer and researcher with experience in full-stack developme
 * DTR-Calculator
   A productivity tool for recording daily time logs, computing deductions, and summarizing attendance-based performance.
 
-* MovieRecommender (MovieReX)
-  A user-centric movie recommendation platform featuring rating input, preference learning, and visual summaries.
+* AI Chatbot
+  AI-powered chatbot using TensorFlow.js for intent recognition, running entirely in the browser with no server-side dependencies. Features dark mode support and responsive chat UI.
 
 Full list of repositories is available at: [github.com/KCprsnlcc?tab=repositories](https://github.com/KCprsnlcc?tab=repositories)
 
