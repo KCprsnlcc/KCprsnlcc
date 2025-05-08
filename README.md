@@ -45,7 +45,7 @@ I am a software developer and researcher with experience in full-stack developme
 * AI Chatbot
   AI-powered chatbot using TensorFlow.js for intent recognition, running entirely in the browser with no server-side dependencies. Features dark mode support and responsive chat UI.
 
-Full list of repositories is available at: [Repositories](https://github.com/KCprsnlcc?tab=repositories)
+Full list of repositories is available at my [Repositories](https://github.com/KCprsnlcc?tab=repositories)
 
 ---
 
