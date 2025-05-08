@@ -33,8 +33,8 @@ I am a software developer and researcher with experience in full-stack developme
 * PilarEaseDJO
   A Django web application integrating emotion analysis, sentiment-aware dashboards, user authentication, chatbot responses, and tweet classification.
 
-* ExpenseMate
-  A budget management desktop application that helps users visualize spending trends and maintain financial discipline.
+* File Manager
+  A basic cross-platform file manager built with PySide6. Supports file browsing, search, image preview, and basic file operations. Includes drag-and-drop support.
 
 * WebcamEmotionMusicPlayer
   An experimental project that classifies facial emotions from webcam input and matches them with curated music tracks.
