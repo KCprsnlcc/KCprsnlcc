@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=KCprsnlcc&style=flat" alt="KCprsnlcc" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KCprsnlcc&show_icons=true&theme=radical&hide_border=true" />
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=KCprsnlcc&show_icons=true&theme=radical&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />  
+</p>  
 
 ---
 
