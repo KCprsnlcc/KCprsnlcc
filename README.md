@@ -42,8 +42,8 @@ Explore more in my [GitHub Repositories](https://github.com/KCprsnlcc?tab=reposi
 
 Check out my [Certificates Repository](https://github.com/KCprsnlcc/Certificates) for credentials in:
 
-- **Software Development**: Python, Django, Flutter  
-- **AI & ML**: NLP, Data Analytics, ChatGPT  
+- **Software Development**: Python, Django, Php  
+- **AI & ML**: NLP, Data Analytics, ML  
 - **Cybersecurity**: Ethical Hacking, Awareness Training  
 - **EdTech**: AI in Pedagogy, Digital Strategy
 
