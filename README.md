@@ -63,7 +63,7 @@ I’m open to collaborations, mentorship, or remote opportunities.
 
 - **GitHub**: [@KCprsnlcc](https://github.com/KCprsnlcc)  
 - **Email**: kcpersonalacc@gmail.com 
-- **LinkedIn**: [@KhadaffeSulaiman] (https://linkedin.com/in/khadaffe-s-232199194/)
+- **LinkedIn**: [@Khadaffe](https://linkedin.com/in/khadaffe-s-232199194/)
 
 ---
 
