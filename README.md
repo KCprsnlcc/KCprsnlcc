@@ -1,70 +1,17 @@
-<h2 align="center">Welcome to the GitHub Portfolio of Khadaffe Abubakar Sulaiman</h2>
 
-<p align="center">
-  <em>Passionate software developer with a love for full-stack development, AI, and problem-solving.</em>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KCprsnlcc&style=flat" alt="KCprsnlcc" />
 </p>
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=KCprsnlcc&show_icons=true&theme=radical&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />  
-</p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KCprsnlcc&show_icons=true&theme=radical&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="Your GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCprsnlcc&theme=radical&title_color=58A6FF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+</p>
 
-### About Me
-
-- **💻 Full-stack developer** with experience in Python, Django, JavaScript, React, and more
-- **🤖 AI & Machine Learning Enthusiast** – I enjoy building smart, scalable systems
-- **🧠 Researcher mindset** – always learning and experimenting
-- **🌍 Open to remote opportunities**
-
----
-
-### Featured Projects
-
-Here are some of the projects I’ve built:
-
-- **AI-Forecast** – Time-series forecasting using ARIMA and Prophet
-- **PilarEaseDJO** – Django app for emotion analysis, chatbot, and tweet classification
-- **File Manager** – Cross-platform file explorer with PySide6
-- **WebcamEmotionMusicPlayer** – Matches facial emotion with music
-- **DTR-Calculator** – Attendance tracker with performance summary
-- **AI Chatbot** – Intent recognition with TensorFlow.js, runs fully in-browser
-
-Explore more in my [GitHub Repositories](https://github.com/KCprsnlcc?tab=repositories)
-
----
-
-### Certifications
-
-Check out my [Certificates Repository](https://github.com/KCprsnlcc/Certificates) for credentials in:
-
-- **Software Development**: Python, Django, Php  
-- **AI & ML**: NLP, Data Analytics, ML  
-- **Cybersecurity**: Ethical Hacking, Awareness Training  
-- **EdTech**: AI in Pedagogy, Digital Strategy
-
----
-
-### Hackathons & Events
-
-- **Hack4Gov 2023** – National cyber challenge  
-- **BlueCode Hackathon** – Real-time data viz under mentorship  
-- **Google I/O Extended** – Zamboanga Peninsula (2023, 2024)
-
----
-
-### Let's Connect!
-
-I’m open to collaborations, mentorship, or remote opportunities.
-
-- **GitHub**: [@KCprsnlcc](https://github.com/KCprsnlcc)  
-- **Email**: kcpersonalacc@gmail.com 
-- **LinkedIn**: [@KhadaffeSulaiman](https://linkedin.com/in/khadaffe-s-232199194/)
-
----
-
-> “Code is more than syntax — it’s creativity, curiosity, and persistence in action.”
+<div align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KCprsnlcc&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58C6FF" />
+</div>
