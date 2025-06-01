@@ -1,9 +1,6 @@
-<p align="center">
-  <!-- GitHub profile badge with icon -->
-  <a href="https://github.com/KCprsnlcc" target="_blank">
+ <p align="center">
+    <!-- GitHub profile badge with icon -->
     <img src="https://img.shields.io/badge/GitHub-Profile-4f7b3d?style=for-the-badge&logo=github&logoColor=white&labelColor=0e2326" alt="GitHub Profile" />
-  </a>
-
   <!-- Profile views with Komarev (dynamic) -->
   <img src="https://komarev.com/ghpvc/?username=KCprsnlcc&label=Views&color=4f7b3d&labelColor=0e2326&style=for-the-badge" alt="Profile Views" />
 </p>
