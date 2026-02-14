@@ -13,11 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KCprsnlcc&show_icons=true&count_private=true&title_color=FAFAFA&text_color=A0A0A0&icon_color=FFFFFF&bg_color=080808&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCprsnlcc&count_private=true&title_color=FAFAFA&text_color=A0A0A0&bg_color=080808&hide_border=true" alt="Top Languages" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KCprsnlcc&bg_color=080808&color=A0A0A0&line=FAFAFA&point=FAFAFA&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
