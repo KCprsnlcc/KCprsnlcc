@@ -59,7 +59,7 @@ I work on a variety of projects including web applications, machine learning mod
 | Project | Description | Link |
 |---------|-------------|------|
 | **Aireeza** | Strategic finance and business performance advisory platform | [aireeza.com](https://aireeza.com/) |
-| **Alt Business Development Platform** | Full-stack digital transformation consulting platform | [altbusiness.dev](https://altbusiness.dev/) |
+| **BrightCEO** | Structured business coaching platform for entrepreneurs to launch, build, and scale in 90 days | [thebrightceo.com](https://www.thebrightceo.com/) |
 | **Alt Business Services, Corp.** | Full-stack virtual business solution with business assessments | [altbusiness.co](https://altbusiness.co/) |
 | **Coworking Space Platform** | Full-stack workspace management solution with booking system | [eleventhspaces.com](https://eleventhspaces.com/) |
 
