@@ -18,6 +18,17 @@
 
 ---
 
+## Connect
+
+<p align="center">
+  <a href="mailto:kcpersonalacc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/khadaffe-sulaiman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/KCprsnlcc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://khadaffe-sulaiman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
 ## About
 
 I'm a software developer and AI enthusiast from **Zamboanga City, Philippines**. I graduated from Pilar College of Zamboanga City, Inc. with a Bachelor of Science in Information Technology (BSIT). My passion lies in building intelligent applications that solve real-world problems.
@@ -87,18 +98,8 @@ I work on a variety of projects including web applications, machine learning mod
 
 ---
 
-## Connect
+## GitHub Stats
 
-<p align="center">
-  <a href="mailto:kcpersonalacc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/khadaffe-sulaiman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/KCprsnlcc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://khadaffe-sulaiman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
-
----
-
-<!-- Badges -->
 <p align="center">
   <!-- GitHub profile badge with icon -->
   <img src="https://img.shields.io/badge/GitHub-Profile-1c1c1c?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=080808" alt="GitHub Profile" />
