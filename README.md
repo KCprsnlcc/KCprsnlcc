@@ -64,8 +64,6 @@ I work on a variety of projects including web applications, machine learning mod
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1c1c1c?style=flat-square&logo=scikit-learn&logoColor=ffffff&labelColor=080808)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1c1c1c?style=flat-square&logo=opencv&logoColor=ffffff&labelColor=080808)
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-1c1c1c?style=flat-square&logo=mediapipe&logoColor=ffffff&labelColor=080808)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1c1c1c?style=flat-square&logo=matplotlib&logoColor=ffffff&labelColor=080808)
-![NLTK](https://img.shields.io/badge/NLTK-1c1c1c?style=flat-square&logo=nltk&logoColor=ffffff&labelColor=080808)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-1c1c1c?style=flat-square&logo=git&logoColor=ffffff&labelColor=080808)
