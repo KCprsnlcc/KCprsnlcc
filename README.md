@@ -46,14 +46,26 @@ I work on a variety of projects including web applications, machine learning mod
 ![Next.js](https://img.shields.io/badge/Next.js-1c1c1c?style=flat-square&logo=next.js&logoColor=ffffff&labelColor=080808)
 ![React](https://img.shields.io/badge/React-1c1c1c?style=flat-square&logo=react&logoColor=ffffff&labelColor=080808)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1c1c1c?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=080808)
+![HTML5](https://img.shields.io/badge/HTML5-1c1c1c?style=flat-square&logo=html5&logoColor=ffffff&labelColor=080808)
+![CSS3](https://img.shields.io/badge/CSS3-1c1c1c?style=flat-square&logo=css3&logoColor=ffffff&labelColor=080808)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1c1c1c?style=flat-square&logo=tailwindcss&logoColor=ffffff&labelColor=080808)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1c1c1c?style=flat-square&logo=bootstrap&logoColor=ffffff&labelColor=080808)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=080808)
+![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=flat-square&logo=node.js&logoColor=ffffff&labelColor=080808)
+![PHP](https://img.shields.io/badge/PHP-1c1c1c?style=flat-square&logo=php&logoColor=ffffff&labelColor=080808)
 
 ### AI & Machine Learning
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1c1c1c?style=flat-square&logo=huggingface&logoColor=ffffff&labelColor=080808)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1c1c1c?style=flat-square&logo=openrouter&logoColor=ffffff&labelColor=080808)
 ![Pandas](https://img.shields.io/badge/Pandas-1c1c1c?style=flat-square&logo=pandas&logoColor=ffffff&labelColor=080808)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1c1c1c?style=flat-square&logo=tensorflow&logoColor=ffffff&labelColor=080808)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1c1c1c?style=flat-square&logo=pytorch&logoColor=ffffff&labelColor=080808)
 ![Keras](https://img.shields.io/badge/Keras-1c1c1c?style=flat-square&logo=keras&logoColor=ffffff&labelColor=080808)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1c1c1c?style=flat-square&logo=scikit-learn&logoColor=ffffff&labelColor=080808)
+![OpenCV](https://img.shields.io/badge/OpenCV-1c1c1c?style=flat-square&logo=opencv&logoColor=ffffff&labelColor=080808)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-1c1c1c?style=flat-square&logo=mediapipe&logoColor=ffffff&labelColor=080808)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1c1c1c?style=flat-square&logo=matplotlib&logoColor=ffffff&labelColor=080808)
+![NLTK](https://img.shields.io/badge/NLTK-1c1c1c?style=flat-square&logo=nltk&logoColor=ffffff&labelColor=080808)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-1c1c1c?style=flat-square&logo=git&logoColor=ffffff&labelColor=080808)
@@ -61,7 +73,24 @@ I work on a variety of projects including web applications, machine learning mod
 ![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=080808)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1c1c1c?style=flat-square&logo=pycharm&logoColor=ffffff&labelColor=080808)
 ![Webpack](https://img.shields.io/badge/Webpack-1c1c1c?style=flat-square&logo=webpack&logoColor=ffffff&labelColor=080808)
+![Vite](https://img.shields.io/badge/Vite-1c1c1c?style=flat-square&logo=vite&logoColor=ffffff&labelColor=080808)
 ![Prisma](https://img.shields.io/badge/Prisma-1c1c1c?style=flat-square&logo=prisma&logoColor=ffffff&labelColor=080808)
+![Supabase](https://img.shields.io/badge/Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=ffffff&labelColor=080808)
+![Firebase](https://img.shields.io/badge/Firebase-1c1c1c?style=flat-square&logo=firebase&logoColor=ffffff&labelColor=080808)
+![Apache](https://img.shields.io/badge/Apache-1c1c1c?style=flat-square&logo=apache&logoColor=ffffff&labelColor=080808)
+![Vercel](https://img.shields.io/badge/Vercel-1c1c1c?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=080808)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1c?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=080808)
+![MySQL](https://img.shields.io/badge/MySQL-1c1c1c?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=080808)
+![SQLite](https://img.shields.io/badge/SQLite-1c1c1c?style=flat-square&logo=sqlite&logoColor=ffffff&labelColor=080808)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1c1c1c?style=flat-square&logo=cloudflare&logoColor=ffffff&labelColor=080808)
+
+### UI, Animation & Forms
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-1c1c1c?style=flat-square&logo=framer&logoColor=ffffff&labelColor=080808)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-1c1c1c?style=flat-square&logo=radix-ui&logoColor=ffffff&labelColor=080808)
+![Headless UI](https://img.shields.io/badge/Headless%20UI-1c1c1c?style=flat-square&logo=headlessui&logoColor=ffffff&labelColor=080808)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-1c1c1c?style=flat-square&logo=shadcnui&logoColor=ffffff&labelColor=080808)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-1c1c1c?style=flat-square&logo=reacthookform&logoColor=ffffff&labelColor=080808)
+![Figma](https://img.shields.io/badge/Figma-1c1c1c?style=flat-square&logo=figma&logoColor=ffffff&labelColor=080808)
 
 ---
 
