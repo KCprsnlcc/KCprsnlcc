@@ -52,6 +52,8 @@ I work on a variety of projects including web applications, machine learning mod
 ![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=080808)
 ![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=flat-square&logo=node.js&logoColor=ffffff&labelColor=080808)
 ![PHP](https://img.shields.io/badge/PHP-1c1c1c?style=flat-square&logo=php&logoColor=ffffff&labelColor=080808)
+![Dart](https://img.shields.io/badge/Dart-1c1c1c?style=flat-square&logo=dart&logoColor=ffffff&labelColor=080808)
+![Flutter](https://img.shields.io/badge/Flutter-1c1c1c?style=flat-square&logo=flutter&logoColor=ffffff&labelColor=080808)
 
 ### AI & Machine Learning
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1c1c1c?style=flat-square&logo=huggingface&logoColor=ffffff&labelColor=080808)
