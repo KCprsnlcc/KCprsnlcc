@@ -83,6 +83,7 @@ I work on a variety of projects including web applications, machine learning mod
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1c?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=080808)
 ![MySQL](https://img.shields.io/badge/MySQL-1c1c1c?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=080808)
 ![SQLite](https://img.shields.io/badge/SQLite-1c1c1c?style=flat-square&logo=sqlite&logoColor=ffffff&labelColor=080808)
+![Neon](https://img.shields.io/badge/Neon-1c1c1c?style=flat-square&logo=neon&logoColor=ffffff&labelColor=080808)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-1c1c1c?style=flat-square&logo=cloudflare&logoColor=ffffff&labelColor=080808)
 
 ### UI, Animation & Forms
