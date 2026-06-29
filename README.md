@@ -74,6 +74,8 @@ I work on a variety of projects including web applications, machine learning mod
 ![Webpack](https://img.shields.io/badge/Webpack-1c1c1c?style=flat-square&logo=webpack&logoColor=ffffff&labelColor=080808)
 ![Vite](https://img.shields.io/badge/Vite-1c1c1c?style=flat-square&logo=vite&logoColor=ffffff&labelColor=080808)
 ![Prisma](https://img.shields.io/badge/Prisma-1c1c1c?style=flat-square&logo=prisma&logoColor=ffffff&labelColor=080808)
+![Clerk](https://img.shields.io/badge/Clerk-1c1c1c?style=flat-square&logo=clerk&logoColor=ffffff&labelColor=080808)
+![Convex](https://img.shields.io/badge/Convex-1c1c1c?style=flat-square&logo=convex&logoColor=ffffff&labelColor=080808)
 ![Supabase](https://img.shields.io/badge/Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=ffffff&labelColor=080808)
 ![Firebase](https://img.shields.io/badge/Firebase-1c1c1c?style=flat-square&logo=firebase&logoColor=ffffff&labelColor=080808)
 ![Apache](https://img.shields.io/badge/Apache-1c1c1c?style=flat-square&logo=apache&logoColor=ffffff&labelColor=080808)
