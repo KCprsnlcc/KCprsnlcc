@@ -75,6 +75,7 @@ I work on a variety of projects including web applications, machine learning mod
 ![Windsurf](https://img.shields.io/badge/Windsurf-1c1c1c?style=flat-square&logo=windsurf&logoColor=ffffff&labelColor=080808)
 ![Webpack](https://img.shields.io/badge/Webpack-1c1c1c?style=flat-square&logo=webpack&logoColor=ffffff&labelColor=080808)
 ![Vite](https://img.shields.io/badge/Vite-1c1c1c?style=flat-square&logo=vite&logoColor=ffffff&labelColor=080808)
+![Redis](https://img.shields.io/badge/Redis-1c1c1c?style=flat-square&logo=redis&logoColor=ffffff&labelColor=080808)
 ![Prisma](https://img.shields.io/badge/Prisma-1c1c1c?style=flat-square&logo=prisma&logoColor=ffffff&labelColor=080808)
 ![Clerk](https://img.shields.io/badge/Clerk-1c1c1c?style=flat-square&logo=clerk&logoColor=ffffff&labelColor=080808)
 ![Convex](https://img.shields.io/badge/Convex-1c1c1c?style=flat-square&logo=convex&logoColor=ffffff&labelColor=080808)
